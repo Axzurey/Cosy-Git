@@ -1,6 +1,0 @@
-return {
-    ["Requirements"] = {
-
-    };
-    ["LoadType"] = "Module";
-}
