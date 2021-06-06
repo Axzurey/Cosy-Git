@@ -16,5 +16,6 @@ return {
         LocalizationService = game:GetService("LocalizationService");
         TestService = game:GetService("TestService");
         MessagingService = game:GetService("MessagingService");
+        RunService = game:GetService("RunService")
     }
 }
